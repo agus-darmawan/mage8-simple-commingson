@@ -131,6 +131,7 @@ body {
   font-weight: 1000;
   text-transform: uppercase;
   letter-spacing: 10px;
+  position:absolute;
   font-size: 2rem;
   margin-bottom: 3rem; 
 }
@@ -192,7 +193,7 @@ body {
 
 img {
   height: 250px;
-  position: fixed;
+  position: absolute;
   left: 50% - 125px;
   padding-bottom: 40px;
   bottom: 10%;
